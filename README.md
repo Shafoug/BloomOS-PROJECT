@@ -67,29 +67,36 @@ BloomOS
 
 ## 📱 Application Screenshots
 
-### Login Screen
+### Welcome
+![Welcome](screenshott/Wlecome.jpeg)
 
-![Login](screenshots/login.png)
+### Hello Screen
+![Hello](screenshott/Hello.jpeg)
+
+### Login
+![Login](screenshott/Login.jpeg)
 
 ### Onboarding
+![Onboarding](screenshott/Onboarding.jpeg)
 
-![Onboarding](screenshots/onboarding.png)
+### Scan Plant
+![Scan Plant](screenshott/scan%20plant.jpeg)
 
-### My Plants
+### Plant Detection
+![Plant Detection](screenshott/Scanplants.jpeg)
 
-![My Plants](screenshots/my-plants.png)
+### Upload Image
+![Upload](screenshott/Upload.jpeg)
 
-### Add Plant
+### Device Setup
+![Device Setup](screenshott/Device%20set%20up.jpeg)
 
-![Add Plant](screenshots/add-plant.png)
-
-### AI Disease Detection
-
-![Scan Plant](screenshots/scan-plant.png)
+### Settings
+![Settings](screenshott/Seetings.jpeg)
 
 ### Device Setup
 
-![Device Setup](screenshots/device-setup.png)
+![Device Setup](screenshott/device-setup.png)
 
 ---
 
