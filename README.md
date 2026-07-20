@@ -93,7 +93,7 @@ BloomOS integrates with an ESP32 microcontroller to:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BloomOS.git
+git clone https://github.com/Shafoug/BloomOS.git
 ```
 
 ### Install Flutter packages
